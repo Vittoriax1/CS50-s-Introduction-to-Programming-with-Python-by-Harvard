@@ -4,7 +4,7 @@ Harvard University's CS50 - Introduction to Computer Science
 
 <h2>Week 0 - Scratch</h2>
 - [Intro to Scratch]Week0/Intro_Scratch.sb3
-- [Scratch #2/Week0/Scratch2.sb3
+- [Scratch #2]Week0/Scratch2.sb3
 - [Week 0 Project]Week0/Week 0 Project.sb3
 <h2>Week 1 - C</h2>
 <h2>Week 2 - Arrays</h2>
