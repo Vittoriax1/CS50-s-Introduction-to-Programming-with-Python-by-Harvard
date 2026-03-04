@@ -3,9 +3,9 @@ Harvard University's CS50 - Introduction to Computer Science
 <BR><A href="https://cs50.harvard.edu/python/"> Hardvard's CS50 Course</A>.
 
 <h2>Week 0 - Scratch</h2>
-- [Intro to Scratch](Week0/Intro_Scratch.sb3)
-- [Scratch #2](Week0/Scratch2.sb3)
-- [Week 0 Project](Week0/Week 0 Project.sb3)
+- <A href="https://github.com/Vittoriax1/CS50-s-Introduction-to-Computer-Science-by-Harvard-EdX/blob/main/Week0/Intro_Scratch.sb3">Intro to Scratch</A><BR>
+- <A href="https://github.com/Vittoriax1/CS50-s-Introduction-to-Computer-Science-by-Harvard-EdX/blob/main/Week0/Scratch2.sb3">Scratch #2</A><BR>
+- <A HREF="https://github.com/Vittoriax1/CS50-s-Introduction-to-Computer-Science-by-Harvard-EdX/blob/main/Week0/Week%200%20Project.sb3">Week 0 Project</A><BR>
 <h2>Week 1 - C</h2>
 <h2>Week 2 - Arrays</h2>
 <h2>Week 3 - Algorithms</h2>
